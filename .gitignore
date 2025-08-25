@@ -1,0 +1,6 @@
+**/__pycache__/
+*.pyz
+*.toc
+*.pyc
+*.pkg
+*.zip
